@@ -1,7 +1,7 @@
 name: chromarotor
 description: image-driven enigma-style cipher
 version: 1.0.6
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/LiveUser/chromarotor
 
 environment:
   sdk: ^3.7.2
